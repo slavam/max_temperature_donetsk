@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "max_temperature_donetsk"
+  site-url: "https://slavam.github.io/max_temperature_donetsk"
+  description: "nbdev-jupyter-notebook learning"
+  repo-branch: main
+  repo-url: "https://github.com/slavam/max_temperature_donetsk"
