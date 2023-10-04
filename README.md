@@ -5,18 +5,14 @@
 This file will become your README and also the index of your
 documentation.
 
-## Install
+## Установка
 
 ``` sh
 pip install max_temperature_donetsk
 ```
 
-## How to use
+## Использование
 
-Fill me in please! Don’t forget code examples:
-
-``` python
-1+1
-```
-
-    2
+Поместите во входное поле (введите или вставьте из буфера) донецкую
+синоптическую телеграмму за текущий срок и нажмите кнопку ‘Сделать
+прогноз’
